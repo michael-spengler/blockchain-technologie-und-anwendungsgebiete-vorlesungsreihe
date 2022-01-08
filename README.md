@@ -69,5 +69,15 @@ Um Gas Fees ... zu sparen arbeiten wir mit der Layer 2 Scaling Solution Arbitrum
 ## Bewertungskriterien
 ...tbd...
 
+
+## Übungsaufgaben Praxis
+1. Ergänzen Sie den folgenden Smart Contract so dass dieser eine Währung auf der Ethereum Blockchain definiert  
+2. Ergänzen Sie das folgende TypeScript Programm so, dass dieses jeweils einen Ether an die folgenden Adressen sendet.
+
+
+## Übungsaufgaben Theorie
+Erörtern Sie Unterschiede im Hinblick auf die "Capital Efficiency" für Anleger zwischen CeFi und DeFi Systemen.  
+
+
 ## Telegram
 Aufgrund der Integrationsmöglichkeiten DApps <-> Telegram empfehle ich die Installation von [telegram.org](https://telegram.org) auf dem PC / Desktop. Die entsprechenden Hilfestellungen fasse ich in der Gruppe [TINF19IT1-TINF19IT12](https://t.me/+Axh5QvZbz2w3NzEy) zusammen. **Bitte treten Sie nach Möglichkeit alle dieser Gruppe bei.**   
