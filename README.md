@@ -22,10 +22,18 @@ Solidity ist die Programmiersprache, welche wir für die Implementierung unserer
 ## Remix.Ethereum.Org
 [remix.ethereum.org](https://remix.ethereum.org) nutzen wir als online IDE für die Implementierung und das Deployment unserer Smart Contracts.
 
+## Weitere Smart Contract Entwicklungswerkzeuge
+[Truffle & Ganache](https://trufflesuite.com/index.html)...    
+
+## Programmatic On-Chain / Off-Chain Connections
+### TypeScript <-> Solidity
+The Deno module named [web3](https://deno.land/x/web3)... 
+
 ## Browserwallets
 Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)... 
 
 ## Decentralized Finance
+
 ### Borrowing / Lending (Yield Farming)
 
 ### Algorithmic Trading (Volatility Farming)
@@ -35,7 +43,13 @@ Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)...
 ## Distributed DNS
 [ens.domains](https://ens.domains)
 
-## Währungen als ERC20 Tokens
+## Fiat Money
+Money which is only backed by political power - typically issued by governments - is also called fiat money. Examples: EUR, USD... 
+
+## Crypto Währungen
+Challenge: Fair Launch / Initial Distribution ...
+
+## Erstellung von Cryptowährungen auf der Ethereum Blockchain als ERC20 Tokens
 
 ## Collectibles / Unique / Non Fungible Tokens als ERC721 Tokens
 
