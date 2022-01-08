@@ -25,7 +25,15 @@ Solidity ist die Programmiersprache, welche wir für die Implementierung unserer
 ## Browserwallets
 Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)... 
 
+## Decentralized Finance
+### Borrowing / Lending (Yield Farming)
+
+### Algorithmic Trading (Volatility Farming)
+
 ## Distributed Apps (DApps)
+
+## Distributed DNS
+[ens.domains](https://ens.domains)
 
 ## Währungen als ERC20 Tokens
 
@@ -33,6 +41,10 @@ Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)...
 
 ## Liquidity Pools für Dezentrale Exchanges
 Im Rahmen dieser Vorlesungsreihe arbeiten wir mit [uniswap.org](https://uniswap.org) als dezentrale Börse
+
+## Airdrops
+
+## Decentralized Autonomous Organizations (DAOs)
 
 ## Layer 2 Scaling Solutions
 Um Gas Fees ... zu sparen arbeiten wir mit der Layer 2 Scaling Solution Arbitrum
