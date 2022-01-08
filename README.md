@@ -13,7 +13,7 @@ Vitalik Buterin...
 
 ## Smart Contracts
 Als Smart Contracts bezeichnen wir Programme, welche auf einer verteilten Blockchain deployed und ausgeführt werden. Diese Verträge / Vereinbarungen bezeichnen wir als "smart", da sie ihre Erfüllung selbst algorithmisch sicherstellen - ganz ohne Anwälte oder Gerichte wie viele von uns das aus der off-chain Welt kennen.  
-Ein Beispiel aus der off-chain Welt, welches das Prinzip eines Smart Contracts recht gut wiederspiegelt ist ein Getränkeautomat am Bahnhof. Mit diesem Getränkeautomat haben dessen Nutzer typischerweise eine Smarte Vereinbarung, die technisch - ohne Anwälte etc. - eingefordert wird. Diese lautet z.B. 
+Ein Beispiel aus der off-chain Welt, welches das Prinzip eines Smart Contracts recht gut wiederspiegelt ist ein Getränkeautomat am Bahnhof. Mit diesem Getränkeautomat haben dessen Nutzer typischerweise eine Smarte Vereinbarung, die technisch - ohne Anwälte etc. - eingefordert / erfüllt wird. Diese lautet z.B. 
 **"Wirf Du mir 2 Euro rein, dafür werfe ich Dir eine Wasserflasche raus."** 
 
 ## Solidity
