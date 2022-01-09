@@ -63,7 +63,7 @@ Der Sender verschlüsselt seine Nachricht mit seinem private key und hat diese d
 
 ### Data Structures
 [Merkle Trees](https://deno.land/x/merkletree)...  
-[Tries](https://deno.land/x/tries@v0.3.0#tries)
+[Tries](https://deno.land/x/tries@v0.3.0#tries)...  
 [Merkle-PATRICIA-Tries](https://deno.land/x/tries@v0.3.0#merkle-patricia-trie--tree)
 
 ### Die Ethereum Blockchain
