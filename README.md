@@ -35,7 +35,6 @@ The Deno module named [web3](https://deno.land/x/web3)...
 2. Web 2: dynamische Seiten ... dank JavaScript... (end 90s till 2020s)   
 3. Web 3: dezentrale / distributed Applications inkl. [decentralized DNS](https://ens.domains) (taking off in early & mid 2020s ... )
 
-
 ### Browserwallets
 Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)... 
 
@@ -47,6 +46,22 @@ Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)...
 [USDT](https://www.coindesk.com/policy/2021/07/26/tether-executives-facing-criminal-bank-fraud-charges-report/) and other potential frauds...
 
 ## Anwendungsgebiete 
+#### Cryptowährungen
+##### Die Bedeutung des Geldes
+Bevor Geld zu dem wurde was es heute ist wurde es durch viele kreative Ideen geformt bzw. weiterentwickelt. Im Laufe der Evolution wurde Geld in unterschiedlichen Kulturen vor allem aufgrund seiner **Tauschmittelfunktion**, **Wertaufbewahrungsfunktion** und **Wertmaßstabfunktion** genutzt.  
+Im Laufe der Geschichte finden sich viele Beispiele dafür, wie Machthaber ihre Machtposition auf ethisch fragwürdige Weise nutzten, um gesellschaftlich anerkannte Scams (z.B. die Aufhebung des Goldstandards im August 1971) zu gestalten. Wer die Währung lenkt, lenkt meist auch das Volk.
+
+##### Differenzierung Digitaler Währungen
+Digitale Währungen unterscheiden sich z.B. im Hinblick auf die ihnen zugrundeliegenden Technologien und durch das Maß an eingebauter Demokratie / das Maß an Verteiltheit.
+
+###### Verteilte Digitale Währungen 
+In dieser Kategorie sind nach allgemeiner Kenntnislage z.B. [Bitcoin](https://www.youtube.com/watch?v=qk4gZrBR9CU) und Ether (die Hauptwährung der [Ethereum](https://ethereum.org/en/) Blockchain) zu nennen. Diese beiden Währungen sind sowohl im Hinblick auf die Ihnen zugrundeliegenden Infrastrukturen als auch im Hinblick auf die Menge der Coins weitgehend verteilt.
+
+##### Zentral Gesteuerte Digitale Währungen 
+In dieser Kategorie finden wir hauptsächlich Scams. Diese Kategorie umfasst solche digitale Währungen, die keinen "Fair Launch" und keine "Built in Democracy" beweisen sondern den "Issuer" oder den Issuer beeinflussende Personengruppen auf meist unfaire Weise bevorteilen - z.B. XRP, Central Bank Digital Currencies (CBDCs), etc. 
+
+Aus diesem Grund konzentrieren wir uns im Rahmen dieser Vorlesungsreihe auf Bitcoin und Ether.  
+
 ### Decentralized Finance
 According to the [DeFi Pulse for Ethereum](https://defipulse.com/) the amount of capital locked in DeFi Smart Contracts grows rapidly.  
 Until ETH 2.0 Proof of Stake and Layer 2 Scaling Solutions like Arbitrum are ready for take off / widely adopted by many of those Protocols (e.g. Aave Smart Contracts...), many developers and users utilize alternatives like the Binance Smart Chain to save gas fees. You might also check the [DeFi Station](https://www.defistation.io/) regarding Binance Smart Chain based DeFi Protocols / Smart Contracts.
@@ -62,18 +77,27 @@ Long Term (Hoddle) vs. Short Term (Trade) Investments...
 Explore Volatility Farming comparing the [Hummingbot](https://hummingbot.io/) with [VoFarm](https://deno.land/x/vofarm)...  
 
 ### Decentralized Code Registries
-Compare [deno.land](https://deno.land) and [nest.land](https://nest.land)
+Vergleiche [deno.land](https://deno.land) und [nest.land](https://nest.land)
 
-## Distributed Apps (DApps)
+### Distributed Apps (DApps)
+Apps, die keinen zentralen web-server benötigen, sondern welche als Backend ein verteiltes System wie beispielsweise die Ethereum Blockchain oder das Interplanetary File System, sowie verteilte Domain Name Services (DNS) wie z.B. [ens.domains](https://ens.domains) nutzen. 
 
-## Distributed DNS
-[ens.domains](https://ens.domains)
+## Begriffe
 
 ## Fiat Money
 Money which is only backed by political power - typically issued by governments - is also called fiat money. Examples: EUR, USD... 
 
-## Crypto Währungen
-Challenge: Fair Launch / Initial Distribution ...
+## Airdrops
+
+## Decentralized Autonomous Organizations (DAOs)
+
+## Tokenomics
+Typische Challenge: Fair Launch / Initial Distribution ...
+
+## Incentive Engineering
+
+## Layer 2 Scaling Solutions
+Um Gas Fees ... zu sparen arbeiten wir mit der Layer 2 Scaling Solution Arbitrum
 
 ## Erstellung von Cryptowährungen auf der Ethereum Blockchain als ERC20 Tokens
 
@@ -82,16 +106,6 @@ Challenge: Fair Launch / Initial Distribution ...
 ## Liquidity Pools für Dezentrale Exchanges
 Im Rahmen dieser Vorlesungsreihe arbeiten wir mit [uniswap.org](https://uniswap.org) als dezentrale Börse
 
-## Airdrops
-
-## Decentralized Autonomous Organizations (DAOs)
-
-## Tokenomics
-
-## Incentive Engineering
-
-## Layer 2 Scaling Solutions
-Um Gas Fees ... zu sparen arbeiten wir mit der Layer 2 Scaling Solution Arbitrum
 
 ## Prüfungsleistung
 ...tbd... 
