@@ -1,4 +1,4 @@
-# Blockchain Technologie TINF19IT1 TINF19IT12
+# Blockchain Technologie Vorlesungsreihe 2022
 
 ## Bereits genutzte Anwendungsgebiete 
 ### Cryptowährungen
