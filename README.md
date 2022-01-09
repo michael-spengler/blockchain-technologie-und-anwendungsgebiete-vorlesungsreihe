@@ -124,8 +124,18 @@ Typische Challenge: Fair Launch / Initial Distribution ...
 ### 3.5 Incentive Engineering
 
 ### 3.6 Layer 2 Scaling Solutions
-Um Gas Fees ... zu sparen arbeiten wir mit der Layer 2 Scaling Solution Arbitrum... 
-zk proofs / rollups ... 
+Um Gas Fees ... zu sparen arbeiten wir mit der Layer 2 Scaling Solution Arbitrum...  
+zk proofs / rollups ...   
+
+```
+Network Name: Arbitrum  
+New RPC URL: https://arb1.arbitrum.io/rpc  
+Chain ID: 0xa4b1  
+Symbol: ETH  
+Block Explorer URL: https://arbiscan.io/  
+```
+
+![Screenshot 2021-10-29 at 09 49 23](https://user-images.githubusercontent.com/43786652/139396693-5959d6fb-5807-4c5a-9193-4fc43b48e7ce.png)
 
 ### 3.7 Erstellung von Cryptowährungen auf der Ethereum Blockchain als ERC20 Tokens
 
