@@ -62,11 +62,13 @@ Alice verschlüsselt die Nachricht welche sie an Bob senden möchte mit Bob's pu
 Der Sender verschlüsselt seine Nachricht mit seinem private key und hat diese dadurch digital signiert. Im Bereich Cryptowährungen nutzen wir dieses Prinzip, um sicherzustellen, dass der Auftraggeber einer Transaktion auch tatsächlich der Eigentümer / Besitzer des private keys ist. 
 
 ### 2.5 Data Structures
-[Merkle Trees](https://deno.land/x/merkletree)...  
+[Merkle Trees](https://deno.land/x/merkletree)...  see also Bitcoin Whitepaper 
+[Bloomfilters](https://deno.land/x/bloomfilter)... see also [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) chapter 4.3   
 [Tries](https://deno.land/x/tries@v0.3.0#tries)...  
 [Merkle-PATRICIA-Tries](https://deno.land/x/tries@v0.3.0#merkle-patricia-trie--tree)
 
 ### 2.6 Die Ethereum Blockchain
+[Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)...  
 Vitalik Buterin... 
 
 ### 2.7 Smart Contracts
