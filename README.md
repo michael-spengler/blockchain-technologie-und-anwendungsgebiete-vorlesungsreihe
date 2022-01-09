@@ -9,7 +9,7 @@ Im Laufe der Geschichte finden sich viele Beispiele dafür, wie Machthaber ihre 
 #### Differenzierung Digitaler Währungen
 Digitale Währungen unterscheiden sich z.B. im Hinblick auf die ihnen zugrundeliegenden Technologien und durch das Maß an eingebauter Demokratie / das Maß an Verteiltheit voneinander.
 
-##### Verteilte Digitale Währungen 
+##### Verteilte (meist Crypto-) Digitale Währungen 
 In dieser Kategorie sind nach allgemeiner Kenntnislage z.B. [Bitcoin](https://www.youtube.com/watch?v=qk4gZrBR9CU) und Ether (die Hauptwährung der [Ethereum](https://ethereum.org/en/) Blockchain) zu nennen. Diese beiden Währungen sind sowohl im Hinblick auf die Ihnen zugrundeliegenden Infrastrukturen als auch im Hinblick auf die Menge der Coins weitgehend verteilt.
 
 ##### Zentral Gesteuerte Digitale Währungen 
