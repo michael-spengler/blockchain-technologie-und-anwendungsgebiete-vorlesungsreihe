@@ -7,7 +7,7 @@ Bevor Geld zu dem wurde was es heute ist wurde es durch viele kreative Ideen gef
 Im Laufe der Geschichte finden sich viele Beispiele dafür, wie Machthaber ihre Machtposition auf ethisch fragwürdige Weise nutzten, um gesellschaftlich anerkannte Scams (z.B. die Aufhebung des Goldstandards im August 1971) zu gestalten. Wer die Währung lenkt, lenkt meist auch das Volk.
 
 #### Differenzierung Digitaler Währungen
-Digitale Währungen unterscheiden sich z.B. im Hinblick auf die ihnen zugrundeliegenden Technologien und durch das Maß an eingebauter Demokratie / das Maß an Verteiltheit.
+Digitale Währungen unterscheiden sich z.B. im Hinblick auf die ihnen zugrundeliegenden Technologien und durch das Maß an eingebauter Demokratie / das Maß an Verteiltheit voneinander.
 
 ##### Verteilte Digitale Währungen 
 In dieser Kategorie sind nach allgemeiner Kenntnislage z.B. [Bitcoin](https://www.youtube.com/watch?v=qk4gZrBR9CU) und Ether (die Hauptwährung der [Ethereum](https://ethereum.org/en/) Blockchain) zu nennen. Diese beiden Währungen sind sowohl im Hinblick auf die Ihnen zugrundeliegenden Infrastrukturen als auch im Hinblick auf die Menge der Coins weitgehend verteilt.
