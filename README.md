@@ -2,7 +2,7 @@
 
 ## Bereits genutzte Anwendungsgebiete 
 ### Cryptowährungen
-#### Die Bedeutung des Geldes
+#### Bedeutungen des Geldes
 Bevor Geld zu dem wurde was es heute ist wurde es durch viele kreative Ideen geformt bzw. weiterentwickelt. Im Laufe der Evolution wurde Geld in unterschiedlichen Kulturen vor allem aufgrund seiner **Tauschmittelfunktion**, **Wertaufbewahrungsfunktion** und **Wertmaßstabfunktion** genutzt.  
 Im Laufe der Geschichte finden sich viele Beispiele dafür, wie Machthaber ihre Machtposition auf ethisch fragwürdige Weise nutzten, um gesellschaftlich anerkannte Scams (z.B. die Aufhebung des Goldstandards im August 1971) zu gestalten. Wer die Währung lenkt, lenkt meist auch das Volk.
 
@@ -87,28 +87,65 @@ Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)...
 
 ## Begriffe und weitere Anregungen
 
-## Fiat Money
+### Fiat Money
 Money which is only backed by political power - typically issued by governments - is also called fiat money. Examples: EUR, USD seit der Aufhebung des Goldstandards im August 1971
 
-## Airdrops
+### Airdrops
 
-## Decentralized Autonomous Organizations (DAOs)
+### Decentralized Autonomous Organizations (DAOs)
 Governance Tokens...
 
-## Tokenomics
+### Tokenomics
 Typische Challenge: Fair Launch / Initial Distribution ...
 
-## Incentive Engineering
+### Incentive Engineering
 
-## Layer 2 Scaling Solutions
+### Layer 2 Scaling Solutions
 Um Gas Fees ... zu sparen arbeiten wir mit der Layer 2 Scaling Solution Arbitrum
 
-## Erstellung von Cryptowährungen auf der Ethereum Blockchain als ERC20 Tokens
+### Erstellung von Cryptowährungen auf der Ethereum Blockchain als ERC20 Tokens
 
-## Collectibles / Unique / Non Fungible Tokens als ERC721 Tokens
+### Collectibles / Unique / Non Fungible Tokens als ERC721 Tokens
 
-## Liquidity Pools für Dezentrale Exchanges
+### Liquidity Pools für Dezentrale Exchanges
 Im Rahmen dieser Vorlesungsreihe arbeiten wir mit [uniswap.org](https://uniswap.org) als dezentrale Börse
+
+
+## Hands On Demos
+Im Folgenden definieren wir eine digitale Währung als ERC20 Token durch einen smart contract (per [remix online IDE](http://remix.ethereum.org/) entwickelt), den wir auf der Ethereum Blockchain deployen. Aus Kostengründen deployen wir diesen jedoch nicht auf dem Ethereum Mainnet sondern auf dem Ropsten Test Net.
+
+```sol 
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.8.0 < 0.9.0;
+
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.4/contracts/token/ERC20/ERC20.sol";
+
+contract MannheimCoin is ERC20 { 
+    
+    constructor () ERC20("MannheimCoin", "MANN") { 
+        _mint(msg.sender, 2000000 * (10 ** uint256(decimals())));
+
+    }
+    
+}
+``` 
+
+[Ergebnis bei etherscan](https://ropsten.etherscan.io/address/0x478e45b9313397ad2dbc1f5d79140cbbc4965afe)
+
+![Screenshot 2021-10-29 at 10 31 57](https://user-images.githubusercontent.com/43786652/139403048-53bc772a-96c2-404b-a1b5-60f76181184d.png)
+
+#### Probleme 
+Diese digitale Währung basiert nun zwar auf einer verteilten Infrastruktur, gleichzeitig ist die gesamte verfügbare Menge an coins (2.000.000) im wallet des den smart contract deployenden (msg.sender) gelandet. Diese Währung hatte also keinen fair launch. Die Möglichkeiten eines Fair Launch (airdrops etc.) erkunden wir später.
+
+Ein weiteres Problem ist, dass dieser Währung zunächst kein Wert beigemessen wird. Aus diesem Grund erstellen wir im Folgenden einen Liquidity Pool auf [uniswap.org](https://uniswap.org).  
+
+#### Lösungsansätze
+Nach den folgenden Schritten bei uniswap (wichtig ropsten testnet) können Interessierte 1 Mannheim Coin für 1 Ether "kaufen" / swappen. Das wird nur weiterhin erstmal niemand tun, da bisher keine value proposition hinter dem Mannheim Coin steht...   
+
+![Screenshot 2021-10-29 at 10 38 04](https://user-images.githubusercontent.com/43786652/139404019-40edb2da-2e20-4bcf-9226-a43eaa3e4e07.png)
+
+![Screenshot 2021-10-29 at 10 43 54](https://user-images.githubusercontent.com/43786652/139404926-1ceb5ca5-6122-4689-b385-539eb5faabb0.png)
+
 
 
 ## Prüfungsleistung
