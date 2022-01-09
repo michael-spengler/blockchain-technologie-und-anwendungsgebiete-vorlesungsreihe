@@ -13,7 +13,7 @@ Digitale Währungen unterscheiden sich z.B. im Hinblick auf die ihnen zugrundeli
 In dieser Kategorie sind nach allgemeiner Kenntnislage z.B. [Bitcoin](https://www.youtube.com/watch?v=qk4gZrBR9CU) und Ether (die Hauptwährung der [Ethereum](https://ethereum.org/en/) Blockchain) zu nennen. Diese beiden Währungen sind sowohl im Hinblick auf die Ihnen zugrundeliegenden Infrastrukturen als auch im Hinblick auf die Menge der Coins weitgehend verteilt.
 
 ##### Zentral Gesteuerte Digitale Währungen 
-In dieser Kategorie finden wir hauptsächlich Scams. Diese Kategorie umfasst solche digitale Währungen, die keinen "Fair Launch" und keine "Built in Democracy" beweisen sondern den "Issuer" oder den Issuer beeinflussende Personengruppen auf meist unfaire Weise bevorteilen - z.B. XRP, Central Bank Digital Currencies (CBDCs), etc. 
+In dieser Kategorie finden wir hauptsächlich Scams. Diese Kategorie umfasst solche digitale Währungen, die keinen "Fair Launch" und keine "Built in Democracy" beweisen sondern den "Issuer" oder den Issuer beeinflussende Personengruppen auf meist unfaire Weise bevorteilen - z.B. XRP, Central Bank Digital Currencies (CBDCs), [USDT](https://www.coindesk.com/policy/2021/07/26/tether-executives-facing-criminal-bank-fraud-charges-report/) etc. 
 
 Aus diesem Grund konzentrieren wir uns im Rahmen dieser Vorlesungsreihe auf Bitcoin und Ether.  
 
@@ -85,14 +85,15 @@ Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)...
 #### Fiat (backed?) Stable Coins
 [USDT](https://www.coindesk.com/policy/2021/07/26/tether-executives-facing-criminal-bank-fraud-charges-report/) and other potential frauds...
 
-## Begriffe
+## Begriffe und weitere Anregungen
 
 ## Fiat Money
-Money which is only backed by political power - typically issued by governments - is also called fiat money. Examples: EUR, USD... 
+Money which is only backed by political power - typically issued by governments - is also called fiat money. Examples: EUR, USD seit der Aufhebung des Goldstandards im August 1971
 
 ## Airdrops
 
 ## Decentralized Autonomous Organizations (DAOs)
+Governance Tokens...
 
 ## Tokenomics
 Typische Challenge: Fair Launch / Initial Distribution ...
