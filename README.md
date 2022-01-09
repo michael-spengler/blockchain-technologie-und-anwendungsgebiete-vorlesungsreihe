@@ -35,7 +35,7 @@ Explore Volatility Farming comparing the [Hummingbot](https://hummingbot.io/) wi
 Vergleiche [deno.land](https://deno.land) und [nest.land](https://nest.land)
 
 ### Distributed Apps (DApps)
-Apps, die keinen zentralen web-server benötigen, sondern welche als Backend ein verteiltes System wie beispielsweise die Ethereum Blockchain oder das Interplanetary File System, sowie verteilte Domain Name Services (DNS) wie z.B. [ens.domains](https://ens.domains) nutzen. 
+Apps, die keinen zentralen web-server benötigen, sondern welche als Backend ein verteiltes System wie beispielsweise die Ethereum Blockchain oder das [Interplanetary File System (IPFS)](https://ipfs.io/), sowie verteilte Domain Name Services (DNS) wie z.B. [ens.domains](https://ens.domains) nutzen. 
 
 ### Web3Verse NFTs Formerly Metaverse
 ERC721 Tokens... Crypto Kitties... Kunst und das Web3verse (formerly Metaverse)
@@ -48,6 +48,23 @@ Konsensalgorithmen Proof of Work, Proof of Stake, etc.
 
 ### Das Bitcoin Whitepaper
 Das [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)...
+
+### Einwegfunktionen
+Die Einwegfunktion [SHA256](https://deno.land/x/hash@v0.1.0#sha-256) spielt im Bitcoin System an mehreren Stellen eine wesentliche Rolle. So wird diese genutzt um die durch den Proof of Work Konsensalgorithmus definierte Aufgabe zu lösen und um Bitcoin Wallets [zu generieren](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses#How_to_create_Bitcoin_Address).
+
+### Asymmetrische (Public Key) Verschlüsselung & Digitale Signaturen
+Refresher: Im Gegensatz zu symmetrischen Verschlüsselungsverfahren entfällt bei asymmetrischen Verschlüsselungsverfahren (z.B. RSA, ECDSA, ...) die Herausforderung des Schlüsselaustausches, da Sender und Empfänger bei der asymmetrischen Verschlüsselung unterschiedliche Schlüssel nutzen. 
+
+#### Use Case 1 - Ziel Vertraulichkeit --> Verschlüsselung
+Alice verschlüsselt die Nachricht welche sie an Bob senden möchte mit Bob's public key --> Nur Bob wird in der Lage sein diese Nachricht zu entschlüsseln.
+
+#### Use Case 2 - Ziel Authentizität --> Digitale Signatur
+Der Sender verschlüsselt seine Nachricht mit seinem private key und hat diese dadurch digital signiert. Im Bereich Cryptowährungen nutzen wir dieses Prinzip, um sicherzustellen, dass der Auftraggeber einer Transaktion auch tatsächlich der Eigentümer / Besitzer des private keys ist. 
+
+### Data Structures
+[Merkle Trees](https://deno.land/x/merkletree)...  
+[Tries](https://deno.land/x/tries@v0.3.0#tries)
+[Merkle-PATRICIA-Tries](https://deno.land/x/tries@v0.3.0#merkle-patricia-trie--tree)
 
 ### Die Ethereum Blockchain
 Vitalik Buterin... 
@@ -74,6 +91,9 @@ The Deno module named [web3](https://deno.land/x/web3)...
 1. Web 1: statische Seiten mit Links (early & mid 90s)  
 2. Web 2: dynamische Seiten ... dank JavaScript... (end 90s till 2020s)   
 3. Web 3: dezentrale / distributed Applications inkl. [decentralized DNS](https://ens.domains) (taking off in early & mid 2020s ... )
+
+### Off-Chain / On-Chain Oracles
+[Chainlink](https://chain.link/) basierte "oracles" erlauben es Off-Chain Daten zu On-Chain Smart Contracts zu bringen. Aus Sicht eines On-Chain Smart Contracts können wir uns eine solche Datenquelle, welche Informationen aus einer "anderen" Welt bereitstellt, wie ein Orakel vorstellen...
 
 ### Browserwallets
 Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)... 
