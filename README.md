@@ -95,8 +95,11 @@ The Deno module named [web3](https://deno.land/x/web3)...
 ### 2.12 Off-Chain / On-Chain Oracles
 [Chainlink](https://chain.link/) basierte "oracles" erlauben es Off-Chain Daten zu On-Chain Smart Contracts zu bringen. Aus Sicht eines On-Chain Smart Contracts können wir uns eine solche Datenquelle, welche Informationen aus einer "anderen" Welt bereitstellt, wie ein Orakel vorstellen...
 
-### 2.13 Browserwallets
+### 2.13 Wallets
+#### Browserwallets
 Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)... 
+
+#### Paperwallets
 
 ### 2.14 Stable Coins
 #### Algorithmic Stable Coins
@@ -121,7 +124,8 @@ Typische Challenge: Fair Launch / Initial Distribution ...
 ### 3.5 Incentive Engineering
 
 ### 3.6 Layer 2 Scaling Solutions
-Um Gas Fees ... zu sparen arbeiten wir mit der Layer 2 Scaling Solution Arbitrum
+Um Gas Fees ... zu sparen arbeiten wir mit der Layer 2 Scaling Solution Arbitrum... 
+zk proofs / rollups ... 
 
 ### 3.7 Erstellung von Cryptowährungen auf der Ethereum Blockchain als ERC20 Tokens
 
