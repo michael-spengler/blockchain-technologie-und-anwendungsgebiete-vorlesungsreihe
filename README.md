@@ -1,7 +1,7 @@
 # Blockchain Technologie Vorlesungsreihe 2022
 
-## Bereits genutzte Anwendungsgebiete 
-### Digitale Währungen
+## 1. Bereits genutzte Anwendungsgebiete 
+### 1.1 Digitale Währungen
 #### Bedeutungen des Geldes
 Bevor Geld zu dem wurde was es heute ist wurde es durch viele kreative Ideen geformt bzw. weiterentwickelt. Im Laufe der Evolution wurde Geld in unterschiedlichen Kulturen vor allem aufgrund seiner **Tauschmittelfunktion**, **Wertaufbewahrungsfunktion** und **Wertmaßstabfunktion** genutzt.  
 Im Laufe der Geschichte finden sich viele Beispiele dafür, wie Machthaber ihre Machtposition auf ethisch fragwürdige Weise nutzten, um gesellschaftlich anerkannte Scams (z.B. die Aufhebung des Goldstandards im August 1971) zu gestalten. Wer die Währung lenkt, lenkt meist auch das Volk.
@@ -17,7 +17,7 @@ In dieser Kategorie finden wir hauptsächlich Scams. Diese Kategorie umfasst sol
 
 Aus diesem Grund konzentrieren wir uns im Rahmen dieser Vorlesungsreihe auf Bitcoin und Ether.  
 
-### Decentralized Finance
+### 1.2 Decentralized Finance
 According to the [DeFi Pulse for Ethereum](https://defipulse.com/) the amount of capital locked in DeFi Smart Contracts grows rapidly.  
 Until ETH 2.0 Proof of Stake and Layer 2 Scaling Solutions like Arbitrum are ready for take off / widely adopted by many of those Protocols (e.g. Aave Smart Contracts...), many developers and users utilize alternatives like the Binance Smart Chain to save gas fees. You might also check the [DeFi Station](https://www.defistation.io/) regarding Binance Smart Chain based DeFi Protocols / Smart Contracts.
 
@@ -31,28 +31,28 @@ Explore differences regarding capital efficiencies...
 Long Term (Hoddle) vs. Short Term (Trade) Investments...   
 Explore Volatility Farming comparing the [Hummingbot](https://hummingbot.io/) with [VoFarm](https://deno.land/x/vofarm)...  
 
-### Decentralized Code Registries
+### 1.3 Decentralized Code Registries
 Vergleiche [deno.land](https://deno.land) und [nest.land](https://nest.land)
 
-### Distributed Apps (DApps)
+### 1.4 Distributed Apps (DApps)
 Apps, die keinen zentralen web-server benötigen, sondern welche als Backend ein verteiltes System wie beispielsweise die Ethereum Blockchain oder das [Interplanetary File System (IPFS)](https://ipfs.io/), sowie verteilte Domain Name Services (DNS) wie z.B. [ens.domains](https://ens.domains) nutzen. 
 
-### Web3Verse NFTs Formerly Metaverse
+### 1.5 Web3Verse NFTs Formerly Metaverse
 ERC721 Tokens... Crypto Kitties... Kunst und das Web3verse (formerly Metaverse)
 
-## Technologische Grundlagen
-### Distributed Ledger Technologie
+## 2 Technologische Grundlagen
+### 2.1 Distributed Ledger Technologie
 Von zentralen zu dezentralen Ledgers...  
 Challenge: Distributed Consensus...  
 Konsensalgorithmen Proof of Work, Proof of Stake, etc. 
 
-### Das Bitcoin Whitepaper
+### 2.2 Das Bitcoin Whitepaper
 Das [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)...
 
-### Einwegfunktionen
+### 2.3 Einwegfunktionen
 Die Einwegfunktion [SHA256](https://deno.land/x/hash@v0.1.0#sha-256) spielt im Bitcoin System an mehreren Stellen eine wesentliche Rolle. So wird diese genutzt um die durch den Proof of Work Konsensalgorithmus definierte Aufgabe zu lösen und um Bitcoin Wallets [zu generieren](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses#How_to_create_Bitcoin_Address).
 
-### Asymmetrische (Public Key) Verschlüsselung & Digitale Signaturen
+### 2.4 Asymmetrische (Public Key) Verschlüsselung & Digitale Signaturen
 Refresher: Im Gegensatz zu symmetrischen Verschlüsselungsverfahren entfällt bei asymmetrischen Verschlüsselungsverfahren (z.B. RSA, ECDSA, ...) die Herausforderung des Schlüsselaustausches, da Sender und Empfänger bei der asymmetrischen Verschlüsselung unterschiedliche Schlüssel nutzen. 
 
 #### Use Case 1 - Ziel Vertraulichkeit --> Verschlüsselung
@@ -61,29 +61,29 @@ Alice verschlüsselt die Nachricht welche sie an Bob senden möchte mit Bob's pu
 #### Use Case 2 - Ziel Authentizität --> Digitale Signatur
 Der Sender verschlüsselt seine Nachricht mit seinem private key und hat diese dadurch digital signiert. Im Bereich Cryptowährungen nutzen wir dieses Prinzip, um sicherzustellen, dass der Auftraggeber einer Transaktion auch tatsächlich der Eigentümer / Besitzer des private keys ist. 
 
-### Data Structures
+### 2.5 Data Structures
 [Merkle Trees](https://deno.land/x/merkletree)...  
 [Tries](https://deno.land/x/tries@v0.3.0#tries)...  
 [Merkle-PATRICIA-Tries](https://deno.land/x/tries@v0.3.0#merkle-patricia-trie--tree)
 
-### Die Ethereum Blockchain
+### 2.6 Die Ethereum Blockchain
 Vitalik Buterin... 
 
-### Smart Contracts
+### 2.7 Smart Contracts
 Als Smart Contracts bezeichnen wir Programme, welche auf einer verteilten Blockchain deployed und ausgeführt werden. Diese Verträge / Vereinbarungen bezeichnen wir als "smart", da sie ihre Erfüllung selbst algorithmisch sicherstellen - ganz ohne Anwälte oder Gerichte wie viele von uns das aus der off-chain Welt kennen.  
 Ein Beispiel aus der off-chain Welt, welches das Prinzip eines Smart Contracts recht gut wiederspiegelt ist ein Getränkeautomat am Bahnhof. Mit diesem Getränkeautomat haben dessen Nutzer typischerweise eine Smarte Vereinbarung, die technisch - ohne Anwälte etc. - eingefordert / erfüllt wird. Diese lautet z.B. 
 **"Wirf Du mir 2 Euro rein, dafür werfe ich Dir eine Wasserflasche raus."** 
 
-### Solidity
+### 2.8 Solidity
 Solidity ist die Programmiersprache, welche wir für die Implementierung unserer Smart Contracts für die Ethereum Blockchain nutzen.
 
-### Remix.Ethereum.Org
+### 2.9 Remix.Ethereum.Org
 [remix.ethereum.org](https://remix.ethereum.org) nutzen wir als online IDE für die Implementierung und das Deployment unserer Smart Contracts.
 
-### Weitere Smart Contract Entwicklungswerkzeuge
+### 2.10 Weitere Smart Contract Entwicklungswerkzeuge
 [Truffle & Ganache](https://trufflesuite.com/index.html)...    
 
-### Programmatic On-Chain / Off-Chain Connections
+### 2.11 Programmatic On-Chain / Off-Chain Connections
 #### TypeScript <-> Solidity
 The Deno module named [web3](https://deno.land/x/web3)... 
 
@@ -92,46 +92,48 @@ The Deno module named [web3](https://deno.land/x/web3)...
 2. Web 2: dynamische Seiten ... dank JavaScript... (end 90s till 2020s)   
 3. Web 3: dezentrale / distributed Applications inkl. [decentralized DNS](https://ens.domains) (taking off in early & mid 2020s ... )
 
-### Off-Chain / On-Chain Oracles
+### 2.12 Off-Chain / On-Chain Oracles
 [Chainlink](https://chain.link/) basierte "oracles" erlauben es Off-Chain Daten zu On-Chain Smart Contracts zu bringen. Aus Sicht eines On-Chain Smart Contracts können wir uns eine solche Datenquelle, welche Informationen aus einer "anderen" Welt bereitstellt, wie ein Orakel vorstellen...
 
-### Browserwallets
+### 2.13 Browserwallets
 Als Browserwallet nutzen wir [Metamask.io](https://metamask.io)... 
 
-### Stable Coins
+### 2.14 Stable Coins
 #### Algorithmic Stable Coins
 [DAI](https://developer.makerdao.com/dai/1/) as an example... 
 
 #### Fiat (backed?) Stable Coins
 [USDT](https://www.coindesk.com/policy/2021/07/26/tether-executives-facing-criminal-bank-fraud-charges-report/) and other potential frauds...
 
-## Begriffe und weitere Anregungen
+## 3 Begriffe und weitere Anregungen
 
-### Fiat Money
+### 3.1 Fiat Money
 Money which is only backed by political power - typically issued by governments - is also called fiat money. Examples: EUR, USD seit der Aufhebung des Goldstandards im August 1971
 
-### Airdrops
+### 3.2 Airdrops
 
-### Decentralized Autonomous Organizations (DAOs)
+### 3.3. Decentralized Autonomous Organizations (DAOs)
 Governance Tokens...
 
-### Tokenomics
+### 3.4 Tokenomics
 Typische Challenge: Fair Launch / Initial Distribution ...
 
-### Incentive Engineering
+### 3.5 Incentive Engineering
 
-### Layer 2 Scaling Solutions
+### 3.6 Layer 2 Scaling Solutions
 Um Gas Fees ... zu sparen arbeiten wir mit der Layer 2 Scaling Solution Arbitrum
 
-### Erstellung von Cryptowährungen auf der Ethereum Blockchain als ERC20 Tokens
+### 3.7 Erstellung von Cryptowährungen auf der Ethereum Blockchain als ERC20 Tokens
 
-### Collectibles / Unique / Non Fungible Tokens als ERC721 Tokens
+### 3.8 Collectibles / Unique / Non Fungible Tokens als ERC721 Tokens
 
-### Liquidity Pools für Dezentrale Exchanges
+### 3.9 Liquidity Pools für Dezentrale Exchanges
 Im Rahmen dieser Vorlesungsreihe arbeiten wir mit [uniswap.org](https://uniswap.org) als dezentrale Börse
 
+### 3.10 Infrastructure Bots
+Considering [Aave Liquidation Bots](https://docs.aave.com/developers/guides/liquidations) as examples... 
 
-## Hands On Demos
+## 4 Hands On Demos
 Im Folgenden definieren wir eine digitale Währung als ERC20 Token durch einen smart contract (per [remix online IDE](http://remix.ethereum.org/) entwickelt), den wir auf der Ethereum Blockchain deployen. Aus Kostengründen deployen wir diesen jedoch nicht auf dem Ethereum Mainnet sondern auf dem Ropsten Test Net.
 
 ```sol 
