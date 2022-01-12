@@ -150,6 +150,8 @@ Im Rahmen dieser Vorlesungsreihe arbeiten wir mit [uniswap.org](https://uniswap.
 Considering [Aave Liquidation Bots](https://docs.aave.com/developers/guides/liquidations) as examples... 
 
 ## 4 Hands On Demos
+
+### Währung Definieren
 Im Folgenden definieren wir eine digitale Währung als ERC20 Token durch einen smart contract (per [remix online IDE](http://remix.ethereum.org/) entwickelt), den wir auf der Ethereum Blockchain deployen. Aus Kostengründen deployen wir diesen jedoch nicht auf dem Ethereum Mainnet sondern auf dem Ropsten Test Net.
 
 ```sol 
@@ -183,6 +185,13 @@ Nach den folgenden Schritten bei uniswap (wichtig ropsten testnet) können Inter
 ![Screenshot 2021-10-29 at 10 38 04](https://user-images.githubusercontent.com/43786652/139404019-40edb2da-2e20-4bcf-9226-a43eaa3e4e07.png)
 
 ![Screenshot 2021-10-29 at 10 43 54](https://user-images.githubusercontent.com/43786652/139404926-1ceb5ca5-6122-4689-b385-539eb5faabb0.png)
+
+
+### Gas Fees Verstehen
+![gas-fees-ethereum](https://user-images.githubusercontent.com/43786652/149205687-a0189ec7-740a-440f-993a-7196e8da23f8.jpg)  
+
+[Current Transactions & Gas Fees](https://txstreet.com/v/eth)  
+
 
 
 
