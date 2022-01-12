@@ -155,7 +155,7 @@ Considering [Aave Liquidation Bots](https://docs.aave.com/developers/guides/liqu
 Im Folgenden definieren wir eine digitale Währung als ERC20 Token durch einen smart contract (per [remix online IDE](http://remix.ethereum.org/) entwickelt), den wir auf der Ethereum Blockchain deployen. Aus Kostengründen deployen wir diesen jedoch nicht auf dem Ethereum Mainnet sondern auf dem Ropsten Test Net.
 
 ```sol 
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.8.0 < 0.9.0;
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.4/contracts/token/ERC20/ERC20.sol";
@@ -163,19 +163,19 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.4
 contract MannheimCoin is ERC20 { 
     
     constructor () ERC20("MannheimCoin", "MANN") { 
-        _mint(msg.sender, 2000000 * (10 ** uint256(decimals())));
-
+        _mint(msg.sender, 2000*10**18);
     }
     
 }
 ``` 
 
-[Ergebnis bei etherscan](https://ropsten.etherscan.io/address/0x478e45b9313397ad2dbc1f5d79140cbbc4965afe)
+[Ergebnis bei ropsten etherscan](https://ropsten.etherscan.io/address/0x7910f84868488da3377833ccaa0e5b2b42edd9a6)
 
-![Screenshot 2021-10-29 at 10 31 57](https://user-images.githubusercontent.com/43786652/139403048-53bc772a-96c2-404b-a1b5-60f76181184d.png)
+<img width="1693" alt="Screenshot 2022-01-12 at 21 59 45" src="https://user-images.githubusercontent.com/43786652/149220764-170e1cc9-b090-4ccf-8773-525094c77ad7.png">
+
 
 #### Probleme 
-Diese digitale Währung basiert nun zwar auf einer verteilten Infrastruktur, gleichzeitig ist die gesamte verfügbare Menge an coins (2.000.000) im wallet des den smart contract deployenden (msg.sender) gelandet. Diese Währung hatte also keinen fair launch. Die Möglichkeiten eines Fair Launch (airdrops etc.) erkunden wir später.
+Diese digitale Währung basiert nun zwar auf einer verteilten Infrastruktur, gleichzeitig ist die gesamte verfügbare Menge an coins (2.000) im wallet des den smart contract deployenden (msg.sender) gelandet. Diese Währung hatte also keinen fair launch. Möglichkeiten einen Fair Launch zu gestalten gibt es viele (airdrops etc.).
 
 Ein weiteres Problem ist, dass dieser Währung zunächst kein Wert beigemessen wird. Aus diesem Grund erstellen wir im Folgenden einen Liquidity Pool auf [uniswap.org](https://uniswap.org).  
 
