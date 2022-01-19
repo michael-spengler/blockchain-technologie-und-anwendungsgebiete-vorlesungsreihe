@@ -1,5 +1,8 @@
 # Blockchain Technologie Vorlesungsreihe 2022
 
+Um sich die theoretischen Inhalte effizient anzueignen empfehle ich die Nutzung der [Fancy Flashcard App](https://github.com/fancy-flashcard/ffc/blob/master/README.md). Sie können [hier](https://github.com/fancy-flashcard/deck-collection) ihre eigenen Decks erstellen und per Pull Request hinzufügen. Diese können Sie dann mit dem entsprechenden Raw Link ([Beispiel](https://raw.githubusercontent.com/fancy-flashcard/deck-collection/main/wirtschaftsinformatik/Finanzbuchhaltung.json)) in der Fancy Flashcard App importieren. Die Fancy Flashcard App ist dann auch im offline- / Flugzeugmodus nutzbar.  
+
+
 ## 1. Bereits genutzte Anwendungsgebiete 
 ### 1.1 Digitale Währungen
 #### Bedeutungen des Geldes
@@ -195,7 +198,6 @@ Nach den folgenden Schritten bei uniswap (wichtig ropsten testnet) können Inter
 
 
 
-
 ## Prüfungsleistung
 ...tbd... 
 
@@ -213,4 +215,4 @@ Erörtern Sie Unterschiede im Hinblick auf die "Capital Efficiency" für Anleger
 
 
 ## Telegram
-Aufgrund der Integrationsmöglichkeiten DApps <-> Telegram empfehle ich die Installation von [telegram.org](https://telegram.org) auf dem PC / Desktop. Die entsprechenden Hilfestellungen fasse ich in der Gruppe [TINF19IT1-TINF19IT12](https://t.me/+Axh5QvZbz2w3NzEy) zusammen. **Bitte treten Sie nach Möglichkeit alle dieser Gruppe bei.**   
+Aufgrund der Integrationsmöglichkeiten DApps <-> Telegram empfehle ich die Installation von [telegram.org](https://telegram.org) auf dem PC / Desktop. Die entsprechenden Hilfestellungen fasse ich in [dieser Gruppe](https://t.me/+Axh5QvZbz2w3NzEy) zusammen. **Bitte treten Sie nach Möglichkeit alle dieser Gruppe bei.**   
