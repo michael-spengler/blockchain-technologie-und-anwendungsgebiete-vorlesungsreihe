@@ -33,6 +33,13 @@ Um sich die praktischen Inhalte effizient anzueignen empfehle ich "just do it" -
 
 Portfolio Gruppenarbeiten im Kontext der Themen siehe Issues Tab
 
+## Bewertungskriterien
+Die Gruppen haben viele wertvolle Open Source Module entwickelt (Deno TypeScript, EVM Solidity, ...) und diese auf wertvolle Art orchestriert.   
+High Cohesion, Loose Coupling, Separation of Concerns im Code  
+100 prozentige Testabdeckung / Exkurs Executable Specifications...  
+Gute Doku / Usage Examples für die Open Source Module  
+
+
 ## Empfohlener Technologie Stack
 
 On Chain: Smart Contracts in Solidity deployed via [remix.ethereum.org](https://remix.ethereum.org)  
@@ -51,11 +58,6 @@ UI Provisioning: [ENS Domains](https://ens.domains) unter Nutzung des [IPFS](htt
 4.3. Uniswap Themen an https://discord.gg/kWAdfKqX2j  
 4.4. Metamask Themen an consensys.net  
 
-
-## Bewertungskriterien
-Die Gruppe hat viele wertvolle Open Source Module entwickelt (Deno TypeScript + EVM Solidity) und diese auf wertvolle Art orchestriert.  
-High Cohesion, Loose Coupling im Code
-100 prozentige Testabdeckung / Exkurs Executable Specifications... 
 
 
 
