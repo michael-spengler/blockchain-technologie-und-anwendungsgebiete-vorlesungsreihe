@@ -36,9 +36,9 @@ Beschreiben Sie ein Szenario, in welchem Alice an Bob eine vertrauliche Nachrich
 #### Bloomfilter
 
 Angenommen Sie nutzen einen Bloomfilter mit einem Bitset der Länge 11 mit den Bloombits 0 bis 10 sowie den folgenden Einwegfunktionen zur Belegung der Bits:  
-h(1)=(x * 2)%11  
-h(2)=(x * 3)%11  
-h(3)=(x * 4)%11  
+h1(x)=(x * 2)%11  
+h2(x)=(x * 3)%11  
+h3(x)=(x * 4)%11  
 
 Wie sieht das Bitset jeweils nach dem Hinzufügen der folgenden Zahlen aus?  
 const exampleArray = [2, 5, 6]
