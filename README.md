@@ -30,6 +30,8 @@ Um sich die praktischen Inhalte effizient anzueignen empfehle ich "just do it" -
 22. https://deno.land/x/log  
 23. https://deno.land/x/deno_moment    
 24. https://deno.land/x/vofarm  
+25. https://deno.land/x/coprime  
+
 
 
   
