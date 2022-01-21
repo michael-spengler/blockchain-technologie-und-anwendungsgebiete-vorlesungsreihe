@@ -32,9 +32,10 @@ Um sich die praktischen Inhalte effizient anzueignen empfehle ich "just do it" -
 24. https://deno.land/x/vofarm  
 
 
+  
 ## Prüfungsleistung
 
-Portfolio Gruppenarbeiten im Kontext der Themen siehe Issues Tab
+Portfolio Gruppenarbeiten im Kontext der Themen siehe [Issues Tab](https://github.com/michael-spengler/blockchain-technologie-und-anwendungsgebiete-vorlesungsreihe/issues)
 
 ## Bewertungskriterien
 Die Gruppen haben viele wertvolle Open Source Module entwickelt (Deno TypeScript, EVM Solidity, ...) und diese auf wertvolle Art orchestriert.   
@@ -54,13 +55,16 @@ UI Provisioning: [ENS Domains](https://ens.domains) unter Nutzung des [IPFS](htt
 
 1. Erkundung der Workbooks innerhalb dieses Repositories   
 2. Viel Zeit für Gruppenarbeiten / Team Programming und Pair Programming  
-3. Sofern jemand an einer Stelle nicht weiterkommt empfehle ich die Challenge zunächst in Stackoverflow und oder in https://ethereum.stackexchange.com/ zu beschreiben und den Link mit uns allen zu teilen
+3. Sofern jemand an einer Stelle nicht weiterkommt empfehle ich die Challenge zunächst in Stackoverflow und oder in https://ethereum.stackexchange.com/ zu beschreiben und den Link zum Post mit uns allen per [Telegram Chat]((https://t.me/+Axh5QvZbz2w3NzEy)) zu teilen
 4. Sofern wir gemeinsam keine zügige Lösung finden, wenden wir uns mit dem Link bei...:   
 4.1. Deno Themen an https://discord.com/invite/deno   
 4.2. Ethereum Themen an  https://discord.gg/hZEMRfVC  
 4.3. Uniswap Themen an https://discord.gg/kWAdfKqX2j  
 4.4. Metamask Themen an consensys.net  
 
+Im Rahmen der Vorlesungsreihe können Sie mich als Potentialerweiterungscoach betrachten, dessen Aufgabe es ist Ihnen ein möglichst effizientes, lehrreiches und erfolgreiches Arbeiten zu ermöglichen.  
+
+Mir ist wichtig, dass Sie sich engagieren, interagieren und häufig - wirklich häufig! Feedback geben - z.B. up- or downvotes bei allen Stackoverflow Beiträgen von Kommilitonen, Stars auf den jeweiligen GitHub Repos. Wenn kein Star, dann ein Issue... Damit möchte ich eine Feedback Kultur prägen innerhalb derer wir uns gegenseitig auf dem gemeinsamen Pfad der Erkundung & Gestaltung unterstützen können.  
 
 
 
