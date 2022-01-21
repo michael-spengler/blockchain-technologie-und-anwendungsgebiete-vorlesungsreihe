@@ -12,7 +12,7 @@ Um sich die praktischen Inhalte effizient anzueignen empfehle ich "just do it" -
 4. https://deno.land/x/bloomfilter    
 5. https://deno.land/x/merkletrees  
 6. https://deno.land/x/tries    
-7 . https://deno.land/x/airdrop  
+7. https://deno.land/x/airdrop  
 8. https://deno.land/x/web3   
 9. https://deno.land/x/hash  
 10. https://deno.land/x/opine
