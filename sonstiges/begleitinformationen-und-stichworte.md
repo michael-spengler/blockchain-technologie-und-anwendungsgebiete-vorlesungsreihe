@@ -1,4 +1,4 @@
-# Begleitinformatione und Stichworte
+# Begleitinformationen und Stichworte
 
 ## 1. Bereits genutzte Anwendungsgebiete 
 ### 1.1 Digitale Währungen
