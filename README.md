@@ -4,13 +4,13 @@ Um sich die theoretischen Inhalte effizient anzueignen empfehle ich die Nutzung 
 
 Um sich die praktischen Inhalte effizient anzueignen empfehle ich "just do it" - soll heißen: ausprobieren, ausprobieren, ausprobieren :) --> Im Rahmen der Vorlesungsreihe entwickeln wir z.B. Smart Contracts in Solidity unter Nutzung der Online IDE [Remix](https://remix.ethereum.org) und Deno Module in TypeScript. Da auch Deno für viele eine neue RTE / Technologie ist, empfehle ich die folgenden Module zum Einstieg in das Thema auszuprobieren: 
 
-1. https://deno.land/x/sleep  
-2. https://deno.land/x/sort  
-3. https://deno.land/x/distancecalculator  
+1. https://deno.land/x/distancecalculator  
+2. https://deno.land/x/sleep  
+3. https://deno.land/x/sort  
 4. https://deno.land/x/bloomfilter    
 5. https://deno.land/x/merkletrees  
 6. https://deno.land/x/tries    
-7. https://deno.land/x/airdrop  
+7 . https://deno.land/x/airdrop  
 8. https://deno.land/x/web3   
 9. https://deno.land/x/hash  
 10. https://deno.land/x/opine
@@ -22,7 +22,7 @@ Um sich die praktischen Inhalte effizient anzueignen empfehle ich "just do it" -
 16. https://deno.land/x/persistence
 17. https://deno.land/x/nlp  
 18. https://deno.land/x/location   
-19. https://deno.land/x/cicd  
+29. https://deno.land/x/cicd  
 20. https://deno.land/x/cities  
 21. https://deno.land/x/countries  
 22. https://deno.land/x/log  
