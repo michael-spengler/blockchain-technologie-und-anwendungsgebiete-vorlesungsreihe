@@ -66,7 +66,7 @@ Im Rahmen der Vorlesungsreihe können Sie mich als Potentialerweiterungscoach be
 
 Mir ist wichtig, dass Sie sich engagieren, interagieren und häufig - wirklich häufig! Feedback geben - z.B. up- or downvotes bei allen Stackoverflow Beiträgen von Kommilitonen, Stars auf den jeweiligen GitHub Repos. Wenn kein Star, dann ein Issue... Damit möchte ich eine Feedback Kultur prägen innerhalb derer wir uns gegenseitig auf dem gemeinsamen Pfad der Erkundung & Gestaltung unterstützen können.  
 
-
+Sie dürfen Du zu mir sagen, da ich mich weiterhin wie 24 fühle :)  
 
 ### Telegram
 Aufgrund der Integrationsmöglichkeiten DApps <-> Telegram empfehle ich die Installation von [telegram.org](https://telegram.org) auf dem PC / Desktop. Die entsprechenden Hilfestellungen fasse ich in [dieser Gruppe](https://t.me/+Axh5QvZbz2w3NzEy) zusammen. **Bitte treten Sie nach Möglichkeit alle dieser Gruppe bei.**   
