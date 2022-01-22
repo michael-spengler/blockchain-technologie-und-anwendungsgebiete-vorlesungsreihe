@@ -90,6 +90,10 @@ contract TINFCoin is ERC20 {
 
 ```
 
+Individualisierung siehe auch: 
+https://wizard.openzeppelin.com/
+
+
 
 ### Telegram
 Aufgrund der Integrationsmöglichkeiten DApps <-> Telegram empfehle ich die Installation von [telegram.org](https://telegram.org) auf dem PC / Desktop. Die entsprechenden Hilfestellungen fasse ich in [dieser Gruppe](https://t.me/+Axh5QvZbz2w3NzEy) zusammen. **Bitte treten Sie nach Möglichkeit alle dieser Gruppe bei.**   
