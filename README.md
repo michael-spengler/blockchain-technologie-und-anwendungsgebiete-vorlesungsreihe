@@ -40,6 +40,7 @@ Um sich die praktischen Inhalte effizient anzueignen empfehle ich "just do it" -
 Portfolio Gruppenarbeiten im Kontext der Themen siehe [Issues Tab](https://github.com/michael-spengler/blockchain-technologie-und-anwendungsgebiete-vorlesungsreihe/issues)
 
 ## Bewertungskriterien
+Jeder einzelne weist ein track record von wertvollen contributions nach - contributions.md (stackoverflow posts, deno module, smart contracts, svelte reusables, ...)  
 Die Gruppen haben viele wertvolle Open Source Module entwickelt (Deno TypeScript, EVM Solidity, ...) und diese auf wertvolle Art orchestriert.   
 High Cohesion, Loose Coupling, Separation of Concerns im Code  
 100 prozentige Testabdeckung / Exkurs Executable Specifications...  
