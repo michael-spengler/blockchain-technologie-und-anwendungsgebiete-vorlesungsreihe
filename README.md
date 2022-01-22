@@ -50,7 +50,7 @@ Gute Doku / Usage Examples für die Open Source Module
 
 On Chain: Smart Contracts in Solidity deployed via [remix.ethereum.org](https://remix.ethereum.org)  
 Off Chain Backend: [TypeScript](https://www.typescriptlang.org/) in [Deno RTE](https://deno.land/)   
-Frontend: [Svelte unter Nutzung von Snel](https://github.com/crewdevio/Snel) connecting to Chain via [Metamask](https://docs.metamask.io/guide/getting-started.html#basic-considerations)   
+Frontend: [Svelte unter Nutzung von Snel](https://github.com/crewdevio/Snel) connecting to Chain via [Metamask](https://docs.metamask.io/guide/getting-started.html#basic-considerations) --> https://svelte.dev     
 UI Provisioning: [ENS Domains](https://ens.domains) unter Nutzung des [IPFS](https://ipfs.io/)   
 
 ## Geplante Vorlesungsgestaltung
