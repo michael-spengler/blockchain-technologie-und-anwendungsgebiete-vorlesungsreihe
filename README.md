@@ -128,6 +128,9 @@ Challenge: Which wallet to use for interaction
 
 
 ## Semi Unique Collectible On Ropsten (ERC1155)
+
+https://ropsten.etherscan.io/address/0xdcfba45751726c7dfaf9950e96eef7026d5afb73
+
 ```sol
 
 // SPDX-License-Identifier: MIT
