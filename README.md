@@ -71,5 +71,25 @@ Mir ist wichtig, dass Sie sich engagieren, interagieren und häufig - wirklich h
 
 Sie dürfen Du zu mir sagen, da ich mich weiterhin wie 24 fühle :)  
 
+
+## TINF Coin On Ropsten
+```sol
+
+// SPDX-License-Identifier: GNU GPL
+pragma solidity >=0.8.0 < 0.9.0;
+
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.4/contracts/token/ERC20/ERC20.sol";
+
+contract TINFCoin is ERC20 { 
+    
+    constructor () ERC20("TINFCoin", "TINF") { 
+        _mint(msg.sender, 42 * 10 ** 18 );
+    }
+    
+}
+
+```
+
+
 ### Telegram
 Aufgrund der Integrationsmöglichkeiten DApps <-> Telegram empfehle ich die Installation von [telegram.org](https://telegram.org) auf dem PC / Desktop. Die entsprechenden Hilfestellungen fasse ich in [dieser Gruppe](https://t.me/+Axh5QvZbz2w3NzEy) zusammen. **Bitte treten Sie nach Möglichkeit alle dieser Gruppe bei.**   
