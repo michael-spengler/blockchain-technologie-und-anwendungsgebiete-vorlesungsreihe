@@ -42,7 +42,7 @@ Portfolio Gruppenarbeiten im Kontext der Themen siehe [Issues Tab](https://githu
 ## Bewertungskriterien
 Jeder einzelne weist ein track record von wertvollen contributions nach - contributions.md (stackoverflow posts, deno module, smart contracts, svelte reusables, ...)  
 Die Gruppen haben viele wertvolle Open Source Module entwickelt (Deno TypeScript, EVM Solidity, ...) und diese auf wertvolle Art orchestriert.   
-High Cohesion, Loose Coupling, Separation of Concerns im Code  
+High Cohesion, [Loose Coupling](http://xunitpatterns.com/Test%20Double.html), Separation of Concerns im Code  
 100 prozentige Testabdeckung / Exkurs Executable Specifications...  
 Gute Doku / Usage Examples für die Open Source Module  
 
