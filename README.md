@@ -129,7 +129,9 @@ Challenge: Which wallet to use for interaction
 
 ## Semi Unique Collectible On Ropsten (ERC1155)
 
-https://ropsten.etherscan.io/address/0xdcfba45751726c7dfaf9950e96eef7026d5afb73
+https://ropsten.etherscan.io/address/0xdcfba45751726c7dfaf9950e96eef7026d5afb73  
+
+[Storing NFT Data Using IPFS](https://docs.ipfs.io/how-to/best-practices-for-nft-data/#best-practices-for-storing-nft-data-using-ipfs)
 
 ```sol
 
