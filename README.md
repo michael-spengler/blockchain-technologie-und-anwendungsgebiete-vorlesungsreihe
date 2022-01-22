@@ -159,5 +159,14 @@ contract OurFancyERC1155Token is ERC1155, Ownable, ERC1155Supply {
 
 ```
 
+## Ideen für den weiteren Verlauf der Vorlesungsreihe
+1. Debating Club mit Rollenwechsel    
+2. Umfrage - wer lässt sich prüfen - wer nicht - wer weiß es noch nicht     
+3. Walt Disney Methode & Vernetzung, Erregung Bewertung in den Gruppen     
+4. [Give and Take Matrix](https://gamestorming.com/give-and-take-matrix/)    
+5. Multisensorisches Lernen noch ausdrücklicher fördern - Häufige Zwischenpräsentationen als Lernerfahrung...  
+
+
+
 ### Telegram
 Aufgrund der Integrationsmöglichkeiten DApps <-> Telegram empfehle ich die Installation von [telegram.org](https://telegram.org) auf dem PC / Desktop. Die entsprechenden Hilfestellungen fasse ich in [dieser Gruppe](https://t.me/+Axh5QvZbz2w3NzEy) zusammen. **Bitte treten Sie nach Möglichkeit alle dieser Gruppe bei.**   
