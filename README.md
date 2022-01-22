@@ -72,7 +72,7 @@ Mir ist wichtig, dass Sie sich engagieren, interagieren und häufig - wirklich h
 Sie dürfen Du zu mir sagen, da ich mich weiterhin wie 24 fühle :)  
 
 
-## TINF Coin On Ropsten
+## TINF Coin On Ropsten (ERC20)
 ```sol
 
 // SPDX-License-Identifier: GNU GPL
@@ -92,6 +92,39 @@ contract TINFCoin is ERC20 {
 
 Individualisierung siehe auch: 
 https://wizard.openzeppelin.com/
+
+
+## Unique Collectible On Ropsten (ERC721)  
+```sol
+
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.2;
+
+import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
+
+contract MyToken is ERC721, ERC721URIStorage {
+    constructor() ERC721("MyToken", "MTK") {}
+
+    // The following functions are overrides required by Solidity.
+
+    function _burn(uint256 tokenId) internal override(ERC721, ERC721URIStorage) {
+        super._burn(tokenId);
+    }
+
+    function tokenURI(uint256 tokenId)
+        public
+        view
+        override(ERC721, ERC721URIStorage)
+        returns (string memory)
+    {
+        return super.tokenURI(tokenId);
+    }
+}
+
+```
+
+Challenge: Which wallet to use for interaction
 
 
 
