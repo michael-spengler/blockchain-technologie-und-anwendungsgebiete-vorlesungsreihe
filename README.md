@@ -160,7 +160,7 @@ contract OurFancyERC1155Token is ERC1155, Ownable, ERC1155Supply {
 ```
 
 ## Ideen für den weiteren Verlauf der Vorlesungsreihe
-1. Debating Club mit Rollenwechsel    
+1. Debating Club mit Rollenwechsel (CBDCs vs. Ether)   
 2. Umfrage - wer lässt sich prüfen - wer nicht - wer weiß es noch nicht     
 3. Walt Disney Methode & Vernetzung, Erregung Bewertung in den Gruppen     
 4. [Give and Take Matrix](https://gamestorming.com/give-and-take-matrix/)    
