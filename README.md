@@ -169,6 +169,12 @@ contract OurFancyERC1155Token is ERC1155, Ownable, ERC1155Supply {
 5. Multisensorisches Lernen noch ausdrücklicher fördern - Häufige Zwischenpräsentationen als Lernerfahrung...  
 
 
+## Recommended Youtube Channels
+[Eat The Blocks](https://www.youtube.com/c/EatTheBlocks)  
+[Bankless](https://www.youtube.com/c/Bankless)    
+[Coin Bureau](https://www.youtube.com/c/CoinBureau)   
+
+
 
 ### Telegram
 Aufgrund der Integrationsmöglichkeiten DApps <-> Telegram empfehle ich die Installation von [telegram.org](https://telegram.org) auf dem PC / Desktop. Die entsprechenden Hilfestellungen fasse ich in [dieser Gruppe](https://t.me/+Axh5QvZbz2w3NzEy) zusammen. **Bitte treten Sie nach Möglichkeit alle dieser Gruppe bei.**   
