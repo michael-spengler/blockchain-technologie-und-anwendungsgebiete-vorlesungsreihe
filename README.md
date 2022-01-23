@@ -41,7 +41,7 @@ Portfolio Gruppenarbeiten im Kontext der Themen siehe [Issues Tab](https://githu
 
 ## Bewertungskriterien
 Jeder einzelne weist ein track record von wertvollen contributions nach - contributions.md (stackoverflow posts, deno module, smart contracts, svelte reusables, ...)  
-Die Gruppen haben viele wertvolle Open Source Module entwickelt (Deno TypeScript, EVM Solidity, ...) und diese auf wertvolle Art orchestriert.   
+Die Gruppen haben viele wertvolle Open Source Module entwickelt ([Deno TypeScript](https://deno.land/x), [EVM Solidity Smart Contract Modules](https://github.com/smart-contract-modules-solidity), ...) und diese auf wertvolle Art orchestriert.   
 High Cohesion, [Loose Coupling](http://xunitpatterns.com/Test%20Double.html), Separation of Concerns im Code  
 100 prozentige Testabdeckung / Exkurs Executable Specifications: Automatisierte Tests sind ausführbare Spezifikationen. Sofern Sie keine 100 prozentige Testabdeckung haben, haben Sie entweder unvollständige Spezifikationen oder unnötigen Code im System. (Vgl. Double Entry Book Keeping - Zwei Teile eines Systems, die sich gegenseitig valideren). Tests haben auch eine Dokumentationsfunktion.    
 Gute Doku / Usage Examples für die Open Source Module  
