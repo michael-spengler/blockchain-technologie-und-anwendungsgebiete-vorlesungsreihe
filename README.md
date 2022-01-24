@@ -71,8 +71,12 @@ Mir ist wichtig, dass Sie sich engagieren, interagieren und häufig - wirklich h
 
 Sie dürfen Du zu mir sagen, da ich mich weiterhin wie 24 fühle :)  
 
+## Starthilfe
+Ich empfehle Ihnen zunächst relativ einfache Deno Module zu implementieren und diese zu veröffentlichen. Zu diesem Zweck habe ich die [Deno Microfunctions Org](https://github.com/deno-microfunctions) angelegt. Hier können wir die entwickelten Artefakte sammeln. Vielleicht möchte der ein oder andere z.B. ein RSA Key Generierungsmodul, oder ein Modul um  Bitcoin Wallet Adressen oder Ethereum Adressen zu erstellen entwickeln. Falls Ihr Hilfe braucht meldet Euch per Telegram.  
 
-## TINF Coin On Ropsten (ERC20)
+
+## Häufig Genutzte Smart Contracts
+### TINF Coin On Ropsten (ERC20)
 ```sol
 
 // SPDX-License-Identifier: GNU GPL
@@ -94,7 +98,7 @@ Individualisierung siehe auch:
 https://wizard.openzeppelin.com/
 
 
-## Unique Collectible On Ropsten (ERC721)  
+### Unique Collectible On Ropsten (ERC721)  
 ```sol
 
 // SPDX-License-Identifier: MIT
@@ -127,7 +131,7 @@ contract MyToken is ERC721, ERC721URIStorage {
 Challenge: Which wallet to use for interaction
 
 
-## Semi Unique Collectible On Ropsten (ERC1155)
+### Semi Unique Collectible On Ropsten (ERC1155)
 
 https://ropsten.etherscan.io/address/0xdcfba45751726c7dfaf9950e96eef7026d5afb73  
 
