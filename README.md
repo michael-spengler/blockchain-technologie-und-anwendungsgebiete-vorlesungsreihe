@@ -72,7 +72,7 @@ Mir ist wichtig, dass Sie sich engagieren, interagieren und häufig - wirklich h
 Sie dürfen Du zu mir sagen, da ich mich weiterhin wie 24 fühle :)  
 
 ## Starthilfe
-Ich empfehle Ihnen zunächst relativ einfache Deno Module zu implementieren und diese zu veröffentlichen. Zu diesem Zweck habe ich die [Deno Microfunctions Org](https://github.com/deno-microfunctions) angelegt. Hier können wir die entwickelten Artefakte sammeln. Vielleicht möchte der ein oder andere z.B. ein RSA Key Generierungsmodul, oder ein Modul um  Bitcoin Wallet Adressen oder Ethereum Adressen zu erstellen entwickeln. Falls Ihr Hilfe braucht meldet Euch per Telegram.  
+Ich empfehle Ihnen zunächst relativ einfache Deno Module zu implementieren und diese zu veröffentlichen. Zu diesem Zweck habe ich die [Deno Microfunctions Org](https://github.com/deno-microfunctions) angelegt. Hier können wir die entwickelten Artefakte sammeln. Vielleicht möchte der ein oder andere z.B. ein RSA Key Generierungsmodul, oder ein Modul um  Bitcoin Wallet Adressen oder Ethereum Adressen zu erstellen entwickeln. Falls Sie Hilfe brauchen melden Sie sich gerne per Telegram.  
 
 
 ## Häufig Genutzte Smart Contracts
