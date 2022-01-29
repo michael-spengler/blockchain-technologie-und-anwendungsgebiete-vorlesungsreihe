@@ -170,7 +170,8 @@ contract OurFancyERC1155Token is ERC1155, Ownable, ERC1155Supply {
 2. Umfrage - wer lässt sich prüfen - wer nicht - wer weiß es noch nicht     
 3. Walt Disney Methode & Vernetzung, Erregung Bewertung in den Gruppen     
 4. [Give and Take Matrix](https://gamestorming.com/give-and-take-matrix/)    
-5. Multisensorisches Lernen noch ausdrücklicher fördern - Häufige Zwischenpräsentationen als Lernerfahrung...  
+5. Multisensorisches Lernen noch ausdrücklicher fördern - Häufige Zwischenpräsentationen als Lernerfahrung...   
+6. Grundlagen und Modelle .... 
 
 
 ## Recommended Youtube Channels
