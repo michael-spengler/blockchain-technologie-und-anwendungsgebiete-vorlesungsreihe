@@ -52,7 +52,12 @@ Gute Doku / Usage Examples für die Open Source Module
 On Chain: Smart Contracts in Solidity deployed via [remix.ethereum.org](https://remix.ethereum.org)  
 Off Chain Backend: [TypeScript](https://www.typescriptlang.org/) in [Deno RTE](https://deno.land/) - [Beispiel für Interaktion mit einem SC von einem TypeScript Programm aus](https://github.com/distributed-ledger-technology/airdrop/blob/main/src/airdrop-service.ts#L47)  
 Frontend: [Svelte unter Nutzung von Snel](https://github.com/crewdevio/Snel) connecting to Chain via [Metamask](https://docs.metamask.io/guide/getting-started.html#basic-considerations) --> https://svelte.dev - [Beispiel für Interaktion mit einem SC von einer eigenen Webseite aus](https://deno.land/x/airdrop@v0.2.0/ui-based-airdrop-for-reference/src/components/Airdrop.svelte)     
-UI Provisioning: [ENS Domains](https://ens.domains) unter Nutzung des [IPFS](https://ipfs.io/)   
+UI Provisioning: [ENS Domains](https://ens.domains) unter Nutzung des [IPFS](https://ipfs.io/)    
+
+
+**Exkurs Laufzeitumgebungen / Runtime Environments (RTEs)**  
+Brendan Eich erfand und entwickelte Javascript, damit Webentwickler Webseiten einfach für Ihre Besucher ineraktiv gestalten konnten. --> Javascript wurde in dieser Hinsicht lediglich im Browser Laufzeitumgebung also beim Client ausgeführt. Ryan Dahl erfand einige Zeit später [NodeJS](https://nodejs.org/) und ermöglichte es so Javascript Programme auch serverseitig in der NodeJS Laufzeitumgebung ausführen zu lassen. Daraufhin haben sehr viele Entwickler sehr viele Node Packages z.B. in der Registry [npmjs.com](https://www.npmjs.com/) veröffentlicht. Vor kurzem begann Ryan Dahl damit eine neue Laufzeitumgebung namens [Deno](https://deno.land) zu entwickeln. Deno hat im Vergleich zu NodeJS viele Vorteile - so ist Deno z.B. sicherer als NodeJS und die Art und Weise wie Reuse gestaltet werden kann ist typischerweise bei Deno einfacher und feingranularer.    
+
 
 ## Geplante Vorlesungsgestaltung
 
