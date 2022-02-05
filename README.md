@@ -180,6 +180,9 @@ contract OurFancyERC1155Token is ERC1155, Ownable, ERC1155Supply {
 7. Race Conditions --> PoW Longest Chain...   
 8. Double Spending Problem erläutern  
 9. 51% Attacks bei PoW & PoS   
+10. Datenlookup für sehr alte Transaktionen    
+11. Umfragen (Verständnischeck) 
+12. Schaubilder  
 
 
 ## Recommended Youtube Channels
