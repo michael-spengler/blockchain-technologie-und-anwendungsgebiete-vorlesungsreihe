@@ -36,9 +36,11 @@ Bei Proof of Stake: Jemand hat mehr als 50 % der stakes
 
 
 ## Debating Club Workshopelement
-Rollenwechsel
-Alle die mit nein gestimmt haben werden gebeten zunächst 10 Minuten lang so zu tun als wären sie total dafür (als hätten sie mit JA gestimmt) und Argumente dafür sammeln.  
-Alle die mit ja gestimmt haben werden gebeten zunächst 10 Minuten lang so zu tun als wären sie total dagegen (als hätten sie mit NEIN gestimmt) und Argumente dafür sammeln.
+Rollenwechsel:  
+
+Alle die mit nein gestimmt haben werden gebeten zunächst 10 Minuten lang so zu tun als wären sie total dafür (als hätten sie mit JA gestimmt) und Argumente dafür sammeln.   
+
+Alle die mit ja gestimmt haben werden gebeten zunächst 10 Minuten lang so zu tun als wären sie total dagegen (als hätten sie mit NEIN gestimmt) und Argumente dagegen sammeln.
 
 
 Danach machen wir eine Debating Runde in der in dieser Form diskutiert wird.
