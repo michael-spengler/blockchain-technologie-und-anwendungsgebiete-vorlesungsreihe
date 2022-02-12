@@ -45,4 +45,33 @@ Alle die mit ja gestimmt haben werden gebeten zunächst 10 Minuten lang so zu tu
 
 Danach machen wir eine Debating Runde in der in dieser Form diskutiert wird.
 
+Sollen wir >=30 % unseres R&D Budgets in das Themengebiet Blockchain investieren?
+
+Ja:
+vertragspartner haben mehr kontrolle (+ transparenz) über ihre eigenen Daten     
+Quelloffenes Konzept --> für jeden nachvollziehbar + überprüfbar       
+Partizipation wird erleichtert - niedrigere Einstiegshürde     
+Wir können damit eine Vorreiterrolle einnehmen und dadurch frühzeitig Marktanteile gewinnen      
+Internationale Zahlungen können schneller und günstiger abgewickelt werden    
+Technologie seit einigen Jahren "etabliert" daher jetzt ein guter Zeitpunkt (ausreichend sicher...)  
+Privacy Chains ermöglichen Datenschutz...   
+Länder mit instabilen Währungen können profitieren --> wir können dadurch mit diesen Ländern dennoch Handel betreiben  
+
+
+Nein:
+zentrale lösungen sind schneller, etablierter und ich sehe keine notwendigkeit
+zu unausgereifte technologie 
+viele blockchains verfügbar 
+wir wissen ja noch gar nicht welche sich durchsetzen wird...  
+Die Blockchains können momentan alle relativ leicht manipuliert / attackiert werden (e.g. via 51 % Attack) 
+Wir würden unnötig viele Transaktionen offenlegen - das könnte von unseren Konkurrenten ausgenutz werden.
+Macht durch Geheimnisse entfällt
+Fraglich wie wir den Datenschutz (GDPR...) sicherstellen sollen?
+Quantum Resistance scheint bei einigen Blockchains fraglich --> wie tragfähig ist das für die Zukunft?  
+Wir haben eh zu wenige Leute, die hier eine Vorreiterrolle einnehmen könnten --> wir wären da eh chancenlos   
+
+
+
+
+
 
