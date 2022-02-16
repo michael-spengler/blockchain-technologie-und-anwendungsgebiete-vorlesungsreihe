@@ -33,6 +33,21 @@ Um sich die praktischen Inhalte effizient anzueignen empfehle ich "just do it" -
 25. https://deno.land/x/coprime  
 
 
+## Geplante Vorlesungsgestaltung
+
+1. Erkundung der Workbooks innerhalb dieses Repositories   
+2. Viel Zeit für Gruppenarbeiten / Team Programming und Pair Programming - siehe auch [issues tab](https://github.com/michael-spengler/blockchain-technologie-und-anwendungsgebiete-vorlesungsreihe/issues)    
+3. Sofern jemand an einer Stelle nicht weiterkommt empfehle ich die Challenge zunächst in Stackoverflow und oder in https://ethereum.stackexchange.com/ zu beschreiben und den Link zum Post mit uns allen per [Telegram Chat]((https://t.me/+Axh5QvZbz2w3NzEy)) zu teilen
+4. Sofern wir gemeinsam keine zügige Lösung finden, wenden wir uns mit dem Link bei...:   
+4.1. Deno Themen an https://discord.com/invite/deno   
+4.2. Ethereum Themen an  https://discord.gg/hZEMRfVC  
+4.3. Uniswap Themen an https://discord.gg/kWAdfKqX2j  
+4.4. Metamask Themen an consensys.net  
+
+Im Rahmen der Vorlesungsreihe können Sie mich als Potentialerweiterungscoach betrachten, dessen Aufgabe es ist Ihnen ein möglichst effizientes, lehrreiches und erfolgreiches Arbeiten zu ermöglichen.  
+
+Mir ist wichtig, dass Sie sich engagieren, interagieren und häufig - wirklich häufig! Feedback geben - z.B. up- or downvotes bei allen Stackoverflow Beiträgen von Kommilitonen, Stars auf den jeweiligen GitHub Repos. Wenn kein Star, dann ein Issue... Damit möchte ich eine Feedback Kultur prägen innerhalb derer wir uns gegenseitig auf dem gemeinsamen Pfad der Erkundung & Gestaltung unterstützen können.  
+
 
   
 ## Prüfungsleistung
@@ -58,23 +73,6 @@ UI Provisioning: [ENS Domains](https://ens.domains) unter Nutzung des [IPFS](htt
 **Exkurs Laufzeitumgebungen / Runtime Environments (RTEs)**  
 Brendan Eich erfand und entwickelte Javascript, damit Webentwickler Webseiten einfach für Ihre Besucher interaktiv gestalten konnten. --> Javascript wurde in dieser Hinsicht lediglich im Browser / in der Browser Laufzeitumgebung beim Client / User ausgeführt. Ryan Dahl erfand und entwickelte einige Zeit später [NodeJS](https://nodejs.org/) und ermöglichte es so Javascript Programme auch serverseitig (in der NodeJS Laufzeitumgebung) ausführen zu lassen. Daraufhin haben sehr viele Entwickler sehr viele Node Packages z.B. in der Registry [npmjs.com](https://www.npmjs.com/) veröffentlicht. Vor kurzem begann Ryan Dahl damit eine neue Laufzeitumgebung namens [Deno](https://deno.land) zu entwickeln. Deno hat im Vergleich zu NodeJS viele Vorteile - so ist Deno z.B. sicherer als NodeJS und die Art und Weise wie Reuse gestaltet werden kann ist typischerweise bei Deno einfacher und feingranularer.    
 
-
-## Geplante Vorlesungsgestaltung
-
-1. Erkundung der Workbooks innerhalb dieses Repositories   
-2. Viel Zeit für Gruppenarbeiten / Team Programming und Pair Programming  
-3. Sofern jemand an einer Stelle nicht weiterkommt empfehle ich die Challenge zunächst in Stackoverflow und oder in https://ethereum.stackexchange.com/ zu beschreiben und den Link zum Post mit uns allen per [Telegram Chat]((https://t.me/+Axh5QvZbz2w3NzEy)) zu teilen
-4. Sofern wir gemeinsam keine zügige Lösung finden, wenden wir uns mit dem Link bei...:   
-4.1. Deno Themen an https://discord.com/invite/deno   
-4.2. Ethereum Themen an  https://discord.gg/hZEMRfVC  
-4.3. Uniswap Themen an https://discord.gg/kWAdfKqX2j  
-4.4. Metamask Themen an consensys.net  
-
-Im Rahmen der Vorlesungsreihe können Sie mich als Potentialerweiterungscoach betrachten, dessen Aufgabe es ist Ihnen ein möglichst effizientes, lehrreiches und erfolgreiches Arbeiten zu ermöglichen.  
-
-Mir ist wichtig, dass Sie sich engagieren, interagieren und häufig - wirklich häufig! Feedback geben - z.B. up- or downvotes bei allen Stackoverflow Beiträgen von Kommilitonen, Stars auf den jeweiligen GitHub Repos. Wenn kein Star, dann ein Issue... Damit möchte ich eine Feedback Kultur prägen innerhalb derer wir uns gegenseitig auf dem gemeinsamen Pfad der Erkundung & Gestaltung unterstützen können.  
-
-Sie dürfen Du zu mir sagen, da ich mich weiterhin wie 24 fühle :)  
 
 ## Starthilfe
 Ich empfehle Ihnen zunächst relativ einfache Deno Module zu implementieren und diese zu veröffentlichen. Zu diesem Zweck habe ich die [Deno Microfunctions Org](https://github.com/deno-microfunctions) angelegt. Hier können wir die entwickelten Artefakte sammeln. Vielleicht möchte der ein oder andere z.B. ein RSA Key Generierungsmodul, oder ein Modul um  Bitcoin Wallet Adressen oder Ethereum Adressen zu erstellen entwickeln. Falls Sie Hilfe brauchen melden Sie sich gerne per Telegram.  
