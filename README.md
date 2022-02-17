@@ -85,7 +85,7 @@ Ich empfehle Ihnen zunächst relativ einfache Deno Module zu implementieren und 
 // SPDX-License-Identifier: GNU GPL
 pragma solidity >=0.8.0 < 0.9.0;
 
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.4/contracts/token/ERC20/ERC20.sol";
+import "https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v4.5.0/contracts/token/ERC20/ERC20.sol";
 
 contract TINFCoin is ERC20 { 
     
