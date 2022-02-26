@@ -180,7 +180,19 @@ contract OurFancyERC1155Token is ERC1155, Ownable, ERC1155Supply {
 9. 51% Attacks bei PoW & PoS   
 10. Datenlookup für sehr alte Transaktionen    
 11. Umfragen (Verständnischeck) 
-12. Schaubilder  
+12. Schaubilder!! (Informationsdichte...)
+13. Fragestellungen  
+
+## Ausblick für Vertiefungen
+### Hackathons
+Erkundung neuer Technologien + Open Source Beiträge   
+DHBW Kurs Team   
+Vorbereitung Samstags ... / Robotics (Tiger Team...)   
+
+DHBW Blockchain Hackathon Team - bereitet sich stets auch diverse challenges im Blockchainspace vor...  
+
+--> Blockchain Kursteilnehmer + stets die neuen Kurse  
+Goodie für Studenten: Pizza delivery for contributors... 
 
 
 ## Recommended Youtube Channels
