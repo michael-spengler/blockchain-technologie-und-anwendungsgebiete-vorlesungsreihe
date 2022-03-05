@@ -1,9 +1,10 @@
-# Mining Experiences
-## General Overview
+# Mining & Staking Experiences
+## General Overview Mining
 https://miningpoolstats.stream/
 
+## General Overview Staking
 
-## Monero as Example
+## Monero Mining
 https://miningpoolstats.stream/monero  
 
 Good Tutorial: https://www.youtube.com/watch?v=_YWgj1fPH3w  
@@ -16,4 +17,8 @@ Develop a script which decides whether or not to start ./xmrig considering:
 1. The room temperature  
 2. The current network hashrate (currently (05.03.2022) e.g. 2.94 GH/s)
 
+
+
+## Ethereum 2.0 Staking
+Good Tutorial: https://www.youtube.com/watch?v=4FIWLtG80n8  
 
