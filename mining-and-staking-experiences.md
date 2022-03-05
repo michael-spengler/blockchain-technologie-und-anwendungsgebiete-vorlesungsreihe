@@ -18,9 +18,11 @@ Develop a script which decides whether or not to start ./xmrig considering:
 
 ## General Overview Staking  
 tbd
+## Ethereum (as long as depending on PoW) Mining
+Good Tutorial: https://www.youtube.com/watch?v=TrCtHopi2kc  
+
 
 ## Ethereum 2.0 Staking
-
 https://beaconcha.in/  
 
 Good Tutorial: https://www.youtube.com/watch?v=4FIWLtG80n8  
