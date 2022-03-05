@@ -50,10 +50,10 @@ sudo systemctl enable geth # if you want to start geth on reboot
 
 sudo systemctl disable geth # if you do not want to start geth on reboot
 
-sudo geth attach --datadir /your/path/chain/data
+sudo geth attach --datadir /your/path/chain/data # start the console
 
 
-eth.syncing
+eth.syncing # = example command giving you some interaction options
 
 
 var lastPercentage = 0;var lastBlocksToGo = 0;var timeInterval = 10000;
