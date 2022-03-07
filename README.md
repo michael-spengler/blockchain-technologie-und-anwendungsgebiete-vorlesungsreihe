@@ -4,6 +4,8 @@
 
 Um sich die theoretischen Inhalte effizient anzueignen empfehle ich die Nutzung der [Fancy Flashcard App](https://github.com/fancy-flashcard/ffc/blob/master/README.md). Sie können [hier](https://github.com/fancy-flashcard/deck-collection) ihre eigenen Decks erstellen und per Pull Request hinzufügen. Diese können Sie dann mit dem entsprechenden Raw Link ([Beispiel](https://raw.githubusercontent.com/fancy-flashcard/deck-collection/main/wirtschaftsinformatik/Finanzbuchhaltung.json)) in der Fancy Flashcard App importieren. Die Fancy Flashcard App ist dann auch im offline- / Flugzeugmodus nutzbar.  
 
+Je nach Lerntyp können Sie zusätzlich Videos wie [dieses](https://www.youtube.com/watch?v=BP6Cm1TDlNE) produzieren, um die Zusammenhänge in einem gediegenen Flow zu erkunden und sich diese einzuprägen.  
+
 Um sich die praktischen Inhalte effizient anzueignen empfehle ich "just do it" - soll heißen: ausprobieren, ausprobieren, ausprobieren :) --> Im Rahmen der Vorlesungsreihe entwickeln wir z.B. Smart Contracts in Solidity unter Nutzung der Online IDE [Remix](https://remix.ethereum.org) und Deno Module in TypeScript. Da auch Deno für viele eine neue RTE / Technologie ist, empfehle ich die folgenden Module zum Einstieg in das Thema auszuprobieren: 
 
 1. https://deno.land/x/distancecalculator  
